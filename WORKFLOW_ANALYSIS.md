@@ -10,6 +10,6 @@ The checkout code step pulls the code from the repository so that it can confirm
 
 The environment configuration makes sure that the environment that the code is going into will function properly and not have issues.
 
-This improves reliability because the automated checks are less likely to overlook things that humans would miss.
+This improves reliability because the automated checks are less likely to overlook things that humans would miss. Human error is something that can be easily avoided by making tools that are more effective than we are.
 
 If we pushed code to a different branch that wasn't the main branch, the tests would run the same way to check that everything works well.
